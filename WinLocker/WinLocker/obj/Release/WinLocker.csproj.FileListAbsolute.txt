@@ -1,0 +1,11 @@
+C:\Users\pasha\source\repos\WinLocker\WinLocker\bin\Release\WinLocker.exe.config
+C:\Users\pasha\source\repos\WinLocker\WinLocker\bin\Release\WinLocker.exe
+C:\Users\pasha\source\repos\WinLocker\WinLocker\bin\Release\WinLocker.pdb
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.Properties.Resources.resources
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.csproj.GenerateResource.cache
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.exe
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.pdb
+C:\Users\pasha\source\repos\WinLocker\WinLocker\obj\Release\WinLocker.WinLocker.resources
